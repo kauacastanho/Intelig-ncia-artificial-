@@ -5,4 +5,3 @@ No mês de março (segundo mês de aula) tive meu primeiro contato com o Scratch
 - [link do jogo do tubarão](https://scratch.mit.edu/projects/985773800/)
 
 - [link do jogo do oráculo](https://scratch.mit.edu/projects/985512761/)
-
